@@ -1,3 +1,25 @@
+# How To
+
+## Keyboard Shortcuts
+
+- Visual Studio Code's [Keyboard Shortcuts Reference](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+- *Open/New Terminal* -> `Ctrl` + `Shift` + <code>`</code> or `Ctrl` + <code>`</code>
+- *Markdown Preview* -> `Ctrl` + `Shift` + `V`
+- *Markdown Preview to the left* -> `Ctrl` + `K` + `V`
+
+## Folder structures
+
+```
+.
+└── content
+    └── projects
+        ├── _index.md          # /projects
+        ├── first-project.md   # /projects/first-project
+        └── another-project
+            ├── index.md       # /projects/another-project
+            └── project.jpg
+```
+
 ## Website launching offline
 
 Go to http://localhost:1313
