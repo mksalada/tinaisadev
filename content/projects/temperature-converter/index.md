@@ -4,14 +4,14 @@ date: 2024-09-10T02:23:44+08:00
 draft: false
 description: ""
 summary: "A blog about how I created a web application that converts temperatures"
-slug: ""
+# slug: ""
 # externalUrl: "https://"
 # showReadingTime: true
 # _build:
 #     render: "false"
 #     list: "local"
 tags: [""]
-type: 'projects'
+# type: 'projects'
 # canonical: "https://mks.hashnode.dev/project-blog-temperature-converter-web-app"
 # canonicalDate: "Mar 9, 2023"
 # canonicaltitle: "Project Blog #1: Temperature Converter Web App"
