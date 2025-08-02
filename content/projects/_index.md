@@ -1,4 +1,3 @@
-<!--
 +++
 title = 'Projects'
 date = "2024-09-10T00:06:47+08:00"
@@ -10,5 +9,4 @@ showHero = true
 # showReadingTime: false
 +++
 
-This section contains all my projects.
--->
+Information about all my projects
