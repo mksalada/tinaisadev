@@ -24,8 +24,10 @@ Settings for Continuous Deployment from a Git repository
 - Build command: `hugo`
 [![Hugo](https://img.shields.io/badge/Hugo-%5E0.101.0-ff4088?style=flat-square&logo=hugo)](https://gohugo.io/)
 - Hosted: [GitHub](https://github.com/)
-- Deployment: [Cloudflare Pages](https://pages.cloudflare.com) & [Render.com](https://render.com)
-- Bash: `‐‐minify`
+- Deployment:
+  - [Cloudflare Pages](https://pages.cloudflare.com)
+  - [Render.com](https://render.com)
+- Build command: `hugo --gc --minify`
 - Publish directory: `public`
 - Builds: `Active`
 
@@ -50,23 +52,3 @@ Use your own domain
 - [Blowfish Documentation](https://blowfish.page/docs/)
 - [Hugo Documentation](https://gohugo.io/documentation/)
 - [is-a.dev Docs](https://docs.is-a.dev)
-
-## Keyboard Shortcuts
-
-- Visual Studio Code's [Keyboard Shortcuts Reference](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
-- *Open/New Terminal* -> `Ctrl` + `Shift` + <code>`</code> or `Ctrl` + <code>`</code>
-- *Markdown Preview* -> `Ctrl` + `Shift` + `V`
-- *Markdown Preview to the left* -> `Ctrl` + `K` + `V`
-
-## Folder structures
-
-```
-.
-└── content
-    └── projects
-        ├── _index.md          # /projects
-        ├── first-project.md   # /projects/first-project
-        └── another-project
-            ├── index.md       # /projects/another-project
-            └── project.jpg
-```
