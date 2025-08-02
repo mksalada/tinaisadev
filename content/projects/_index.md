@@ -1,7 +1,7 @@
 ---
 title = "Projects"
 date = 2024-09-10T00:06:47+08:00
-draft = false
+#draft = false
 description: "Learn about some of my projects."
 showDate = false
 showAuthor = false
