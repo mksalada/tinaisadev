@@ -1,21 +1,11 @@
----
-title: "Temperature Converter"
-date: 2024-09-10T02:23:44+08:00
-draft: false
-description: ""
-summary: "A blog about how I created a web application that converts temperatures"
-# slug: ""
-# externalUrl: "https://"
-# showReadingTime: true
-# _build:
-#     render: "false"
-#     list: "local"
-tags: [""]
-# type: 'projects'
-# canonical: "https://mks.hashnode.dev/project-blog-temperature-converter-web-app"
-# canonicalDate: "Mar 9, 2023"
-# canonicaltitle: "Project Blog #1: Temperature Converter Web App"
----
++++
+title = "Temperature Converter"
+date = "2024-09-10T02:23:44+08:00"
+draft = false
+description = ""
+summary = "A blog about how I created a web application that converts temperatures"
+tags = [""]
++++
 
 This project of mine is called **Temperature Converter Web Application**. It's not new. It's a pretty old project. I created it 3 years ago. I will link it below if ever you want to check that out.
 
@@ -28,3 +18,9 @@ Then, my mind came up with the idea of making those C projects into a web applic
 Links: [Repository](https://github.com/mksalada/temperature-converter-web-application/) / [Demo](https://mksalada.github.io/temperature-converter-web-application/)
 
 {{< github repo="mksalada/temperature-converter-web-application" showThumbnail=true >}}
+
+<!--
+- canonicalDate = "Mar 9, 2023"
+- canonicaltitle = "Project Blog #1: Temperature Converter Web App"
+[Link](https://mks.hashnode.dev/project-blog-temperature-converter-web-app)
+-->
