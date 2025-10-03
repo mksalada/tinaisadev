@@ -10,4 +10,5 @@ showHero = true
 Information about all my projects
 
 <br>
-- **[Temperature Converter](temperature-converter)**
+
+{{< article link="/projects/temperature-converter/" showSummary=true compactSummary=true >}}
