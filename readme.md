@@ -37,11 +37,11 @@ Use your own domain
 
 ### Custom domains
 
-#### Cloudflare Pages
+#### [Cloudflare Pages](https://pages.dev)
 - Primary subdomain: [tinasalada.pages.dev](https://tinasalada.pages.dev)
 - Secondary subdomain: [mksalada.pages.dev](https://mksalada.pages.dev)
 
-#### Render(.com)
+#### [Render(.com)](https://render.com)
 - Domain: [tina.is-a.dev](https://tina.is-a.dev)
 - Primary subdomain: [tinadev.onrender.com](https://tinadev.onrender.com)
 
@@ -52,3 +52,6 @@ Use your own domain
 - [Blowfish Documentation](https://blowfish.page/docs/)
 - [Hugo Documentation](https://gohugo.io/documentation/)
 - [is-a.dev Docs](https://docs.is-a.dev)
+- [GitHub Docs](https://github.com)
+- [Cloudflare Docs](https://cloudflare.com)
+- [Render Docs](https://render.com)
