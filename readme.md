@@ -35,15 +35,17 @@ Settings for Continuous Deployment from a Git repository
 
 Use your own domain
 
-### Custom domains
-
 #### [Cloudflare Pages](https://pages.dev)
 - Primary subdomain: [tinasalada.pages.dev](https://tinasalada.pages.dev)
 - Secondary subdomain: [mksalada.pages.dev](https://mksalada.pages.dev)
 
 #### [Render(.com)](https://render.com)
-- Domain: [tina.is-a.dev](https://tina.is-a.dev)
 - Primary subdomain: [tinadev.onrender.com](https://tinadev.onrender.com)
+
+### Custom domains
+- Domain: [tina.is-a.dev](https://tina.is-a.dev)
+
+  Free subdomain name from [is-a.dev](https://is-a.dev)
 
 ***
 
@@ -53,5 +55,5 @@ Use your own domain
 - [Hugo Documentation](https://gohugo.io/documentation/)
 - [is-a.dev Docs](https://docs.is-a.dev)
 - [GitHub Docs](https://github.com)
-- [Cloudflare Docs](https://cloudflare.com)
-- [Render Docs](https://render.com)
+- [Cloudflare Docs](https://developers.cloudflare.com)
+- [Render Docs](https://render.com/docs)
