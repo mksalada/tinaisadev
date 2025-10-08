@@ -13,4 +13,6 @@ Information about all my projects
 
 {{< article link="/projects/temperature-converter/" showSummary=true compactSummary=true >}}
 
+<br>
+
 {{< article link="/projects/lgus-ph-web-app/" showSummary=true compactSummary=true >}}
