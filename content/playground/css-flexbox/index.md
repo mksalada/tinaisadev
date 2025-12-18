@@ -13,6 +13,8 @@ After finishing the **CSS Cardio** course online by **WesBos** on **April 6, 202
 
 {{< article link="/archives/css-cardio/" showSummary=true compactSummary=true >}}
 
+<br>
+
 The course is about CSS Grid. I still have to learn about CSS Flexbox, but I don't want to take another course, so I self-learned it with the help of [W3schools](https://w3schools.com). It's like striking 2 birds at one stone because I got to learn and practice at the same time. Although I didn't finished the whole thing, I learned a lot form this.
 
 If you want to learn it too, do the same thing I did. You can check out my project at the repository below.
