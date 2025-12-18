@@ -7,6 +7,4 @@ showAuthor = false
 showHero = true
 +++
 
-This will gonna be my little playground!
-
-Stay tuned :)
+This my little playground! I just made a place for my *"unworthy to get to my [projects](/projects) page"* projects. These projects are made when I'm just **learning** something as a web developer. I think they're still worthy to be flexed somehow!
