@@ -15,10 +15,17 @@ Since the world is still in Covid-19 pandemic, I created a website for a club ag
 
 Then, I did all the code from scratch. I even created a logo and some image posters for the project to look like a real club. I really want to make it real that I also created Google forms for some of the links. I didn't use dummy text in the website's pages. I copied real informations online and cited them. All the images are not mine so I also cited them on the projects ReadMe file. I also created a Facebook page for it. :laugh:
 
-Links: [Repository](https://github.com/mksalada/acsc) / [Demo](https://mksalada.github.io/acsc)
+<br>
 
 {{< github repo="mksalada/acsc" showThumbnail=true >}}
 
 <br>
 
 A few days after I submitted the project, I shared the project to a local Facebook group focused on tech. I got reviews and suggestions, and things that I should change and improved especially on design. A day later, someone message me. He wanted to hire me to develop a website for their small business. I declined it due to my lack of experience in the industry and that I still have school.
+
+<br>
+
+{{< button href="https://mksalada.github.io/acsc" target="_blank" >}}
+    {{< icon "expand" >}} &nbsp; Preview
+{{< /button >}}
+
