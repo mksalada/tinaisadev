@@ -107,11 +107,12 @@ I paused the video and answered it. Here's my answer:
 ```
 
 <br>
-<br>
 
 {{< button href="https://mksalada-demo.netlify.app/page/css-grid-course/Spanning-and-Placing-Cardio/my-answer.html" target="_blank" >}}
     {{< icon "expand" >}} &nbsp; Preview
 {{< /button >}}
+
+<br>
 
 ### Correct Answer
 
@@ -173,11 +174,12 @@ Here's the correct answer:
 ```
 
 <br>
-<br>
 
 {{< button href="https://mksalada-demo.netlify.app/page/css-grid-course/Spanning-and-Placing-Cardio/correct-answer.html" target="_blank" >}}
     {{< icon "expand" >}} &nbsp; Preview
 {{< /button >}}
+
+<br>
 
 I only got one wrong answer. The codes are really different but result is almost the same. 
 
