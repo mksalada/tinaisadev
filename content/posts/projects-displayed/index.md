@@ -12,9 +12,11 @@ Finally finished putting most of my projects for over the years here. Some of th
 Check them out here:
 
 <br>
-
-{{< article link="projects" showSummary=true compactSummary=true >}}
+{{< button href="projects" target="_self" >}}
+    {{< icon "folder-open" >}} &nbsp; Projects
+{{< /button >}}
 
 <br>
-
-{{< article link="playground" showSummary=true compactSummary=true >}}
+{{< button href="playground" target="_self" >}}
+    {{< icon "gamepad" >}} &nbsp; Playground
+{{< /button >}}
