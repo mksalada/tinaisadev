@@ -1,5 +1,5 @@
 +++
-title = "Christian Quotes Generator"
+title = "Quotes Generator"
 date = 2025-12-19T02:53:23+08:00
 draft = false
 description = ""

@@ -19,9 +19,13 @@ The course is about CSS Grid. I still have to learn about CSS Flexbox, but I don
 
 If you want to learn it too, do the same thing I did. You can check out my project at the repository below.
 
-- [Repository](github.com/mksalada/css-flexbox)
-- [Website](https://mksalada.github.io/css-flexbox/)
-
 <br>
 
 {{< github repo="mksalada/css-flexbox" >}}
+
+<br>
+<br>
+
+{{< button href="https://mksalada.github.io/css-flexbox/" target="_blank" >}}
+    {{< icon "expand" >}} &nbsp; Preview
+{{< /button >}}
