@@ -1,8 +1,10 @@
-# Site details
+# Tina.is-a.dev (tinaisadev)
 
- General information about the site
+## Site details
 
-## Site information
+General information about the site
+
+### Site information
 
 - Site name: `Tina.is-a.dev`
 - Owner: `Tina Salada` (`mksalada`)
@@ -10,15 +12,15 @@
 - Theme: [Blowfish](https://github.com/nunocoracao/blowfish) by [Nuno Coração](https://github.com/nunocoracao)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/nunocoracao/blowfish?style=flat-square)](https://github.com/nunocoracao/blowfish/releases)
 
-## Build & deploy
+### Build & deploy
 
 Settings for Continuous Deployment from a Git repository
 
-### Repository
+#### Repository
 
 - Current repository: [github.com/mksalada/tinaisadev](https://github.com/mksalada/tinaisadev/)
 
-### Build settings
+#### Build settings
 
 - Base directory: `main`
 - Build command: `hugo`
@@ -31,25 +33,25 @@ Settings for Continuous Deployment from a Git repository
 - Publish directory: `public`
 - Builds: `Active`
 
-## Domains
+### Domains
 
 Use your own domain
 
-#### [Cloudflare Pages](https://pages.dev)
+##### [Cloudflare Pages](https://pages.dev)
 - Primary subdomain: [tinasalada.pages.dev](https://tinasalada.pages.dev)
 - Secondary subdomain: [mksalada.pages.dev](https://mksalada.pages.dev)
 
-#### [Render(.com)](https://render.com)
+##### [Render(.com)](https://render.com)
 - Primary subdomain: [tinadev.onrender.com](https://tinadev.onrender.com)
 
-### Custom domains
+#### Custom domains
 - Domain: [tina.is-a.dev](https://tina.is-a.dev)
 
   Free subdomain name from [is-a.dev](https://is-a.dev)
 
 ***
 
-### Resources
+#### Resources
 
 - [Blowfish Documentation](https://blowfish.page/docs/)
 - [Hugo Documentation](https://gohugo.io/documentation/)
