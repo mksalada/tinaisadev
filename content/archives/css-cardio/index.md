@@ -106,6 +106,13 @@ I paused the video and answered it. Here's my answer:
     .item20 { grid-row: 4 / span 3; }
 ```
 
+<br>
+<br>
+
+{{< button href="https://mksalada-demo.netlify.app/page/css-grid-course/Spanning-and-Placing-Cardio/my-answer.html" target="_blank" >}}
+    {{< icon "expand" >}} &nbsp; Preview
+{{< /button >}}
+
 ### Correct Answer
 
 Here's the correct answer: 
@@ -165,15 +172,17 @@ Here's the correct answer:
     }
 ```
 
+<br>
+<br>
+
+{{< button href="https://mksalada-demo.netlify.app/page/css-grid-course/Spanning-and-Placing-Cardio/correct-answer.html" target="_blank" >}}
+    {{< icon "expand" >}} &nbsp; Preview
+{{< /button >}}
+
 I only got one wrong answer. The codes are really different but result is almost the same. 
-
-#### Previews
-
-- [My Answer](https://mksalada-demo.netlify.app/page/css-grid-course/Spanning-and-Placing-Cardio/my-answer.html)
-- [Correct Answer](https://mksalada-demo.netlify.app/page/css-grid-course/Spanning-and-Placing-Cardio/correct-answer.html)
 
 #### Thanks to
 
 Thanks to Wes Bos, the teacher for the course and to Mozilla for that free course about CSS Grid. You can also take the course. I recommended it for learning CSS Grid because it's fun and informative. Just go to [cssgrid.io](https://cssgrid.io/) and sign up.
 
-![WesBos' CSS Grid Course](https://res.cloudinary.com/practicaldev/image/fetch/s--FY_LTeAy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mksalada.tk/file/image/css-grid-course-wesbos.png)
+![WesBos' CSS Grid Course](https://mksalada.netlify.app/file/image/css-grid-course-wesbos.png)
