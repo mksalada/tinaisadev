@@ -13,8 +13,8 @@ Check them out here:
 
 <br>
 
-{{< article link="/projects" showSummary=true compactSummary=true >}}
+{{< article link="projects" showSummary=true compactSummary=true >}}
 
 <br>
 
-{{< article link="/playground" showSummary=true compactSummary=true >}}
+{{< article link="playground" showSummary=true compactSummary=true >}}
