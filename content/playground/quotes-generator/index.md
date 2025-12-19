@@ -17,10 +17,11 @@ The repository was created on Mar 1, 2023, but I don't think that's the exact da
 
 <br>
 
-{{< button href="https://mksalada.github.io/ChristianQuotesGenerator/" target="_blank" >}}
-    {{< icon "expand" >}} Preview
-{{< /button >}}
+{{< github repo="mksalada/ChristianQuotesGenerator" >}}
 
 <br>
+<br>
 
-{{< github repo="mksalada/ChristianQuotesGenerator" >}}
+{{< button href="https://mksalada.github.io/ChristianQuotesGenerator/" target="_blank" >}}
+    {{< icon "expand" >}}  Preview
+{{< /button >}}
