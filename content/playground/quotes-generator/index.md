@@ -23,5 +23,5 @@ The repository was created on Mar 1, 2023, but I don't think that's the exact da
 <br>
 
 {{< button href="https://mksalada.github.io/ChristianQuotesGenerator/" target="_blank" >}}
-    {{< icon "expand" >}}  Preview
+    {{< icon "expand" >}} &nbsp; Preview
 {{< /button >}}
