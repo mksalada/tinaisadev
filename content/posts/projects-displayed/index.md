@@ -14,7 +14,7 @@ Check them out here:
 - [Projects](/projects)
 - [Playground](/playground)
 
-<br>
+<!-- <br>
 
 {{< button href="projects" target="_self" >}}
     {{< icon "folder-open" >}} &nbsp; Projects
@@ -26,3 +26,4 @@ Check them out here:
 {{< button href="playground" target="_self" >}}
     {{< icon "gamepad" >}} &nbsp; Playground
 {{< /button >}}
+-->
