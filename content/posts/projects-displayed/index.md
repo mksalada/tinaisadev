@@ -1,6 +1,6 @@
 +++
 title = "Projects Displayed!"
-date = 2025-12-19T15:48:13+08:00
+date = "2025-12-19T15:48:13+08:00"
 draft = false
 description = ""
 slug = ""
