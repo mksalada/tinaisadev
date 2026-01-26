@@ -32,16 +32,19 @@ My blogs for over the years are all over the place. There's blogs on WordPress, 
 - <u>[DEV](https://dev.to/mksalada)</u> *-> Developer stuff*
 - <u>[Hashnode](https://hashnode.com/@tinasalada)</u> *-> Developer stuff*
 - <u>[Showwcase](https://www.showwcase.com/mksalada)</u> *-> Professional stuff*
-- <u>[Medium](https://medium.com/@mksalada)</u> *-> Pre-Philippine script blog*
 - <u>[Replit](https://replit.com/@tinasalada)</u> *-> Developer stuff*
+- <u>[Gravatar](https://gravatar.com/salada4299)</u> *-> Random stuff*
+- <u>[Google for Developers](https://g.dev/mksalada)</u> *-> Developer stuff*
 
 **Blogs**
 
 - <u>[Tumblr](https://mksalada.tumblr.com/)</u> *-> Random stuff*
-- <u>[Blogspot](https://mksalada.blogspot.com/)</u> *-> Personal and spritual blog*
+- <u>["Make Jesus Smile" (BlogSpot)](https://mksalada.blogspot.com/)</u> *-> Personal and spritual blog*
 - <u>[WordPress](https://tinsalada.wordpress.com/)</u> *-> Personal and spritual blog*
-- <u>[Hashnode Blog](https://mks.hashnode.dev/)</u> *-> Developer blog*
+- <u>["Tina's Dev Blog" (Hashnode)](https://mks.hashnode.dev/)</u> *-> Developer blog*
 - <u>[Google Site](https://sites.google.com/psu.palawan.edu.ph/mksalada/)</u> *-> Student blog*
+- <u>["SulatinX" (BlogSpot)](https://sulatinx.blogspot.com)</u> *-> Pre-Philippine script blog*
+- <u>[Medium](https://medium.com/@mksalada)</u> *-> Personal and spritual blog*
 
 <br>
 

@@ -24,10 +24,10 @@ buildFuture = false
 
 [taxonomies]
   tag = "tags"
-  # category = "categories"
+  category = "categories"
   # author = "authors"
   # series = "series"
-  project = "projects"
+  # project = "projects"
 
 [sitemap]
   changefreq = 'daily'
@@ -45,17 +45,17 @@ buildFuture = false
         name = "tags"
         weight = 100
 
-    # [[related.indices]]
-    #     name = "categories"
-    #     weight = 100
+    [[related.indices]]
+        name = "categories"
+        weight = 100
 
     # [[related.indices]]
     #     name = "series"
     #     weight = 50
 
-    [[related.indices]]
-        name = "projects"
-        weight = 30
+    # [[related.indices]]
+    #     name = "projects"
+    #     weight = 30
 
     # [[related.indices]]
     #     name = "authors"

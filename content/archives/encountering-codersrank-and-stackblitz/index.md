@@ -14,6 +14,9 @@ I joined and create my account through GitHub. As I exploring their website, I f
 
 I explored the course. I'm at HTML now. Although I have knowledge and background about it, the same with CSS and JavaScript, I still start at HTML. Honestly, at first, I don't really know. I just explore. But now, I'm glad that I do because if I didn't, I will not encounter StackBlitz. It's connected to GitHub and I can make a repository and code here at StackBlitz. I feel like coding at my Visual Studio Code IDE but the differences are it's online, and there's an automatic Live Server that's called the Dev Server, and it is also published immediately into a website that is a subdomain to the stackblitz.com domain. I really really love it. But the thing is I have problem with the font size of the text editor area. It was so small and that I have to zoom in my browser to see it clearly. But after figuring out how to change its font size at User settings, it's okay now. One last thing, I had extension tab at the left side but I don't know if it is working because I want to have an Emmet extension. I think that's the only thing tha's lacking here because on VS Code, *Emmet* is built-in.
 
+<br>
+
 {{< button href="http://mksalada.stackblitz.io/" target="_blank" >}}
-    Preview
+    {{< icon "expand" >}} &nbsp; Preview
 {{< /button >}}
+
