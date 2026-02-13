@@ -25,24 +25,23 @@ Settings for Continuous Deployment from a Git repository
 - Base directory: `main`
 - Build command: `hugo`
 [![Hugo](https://img.shields.io/badge/Hugo-%5E0.101.0-ff4088?style=flat-square&logo=hugo)](https://gohugo.io/)
-- Hosted: [GitHub](https://github.com/)
-- Deployment:
-  - [Cloudflare Pages](https://pages.cloudflare.com)
-  - [Render.com](https://render.com)
 - Build command: `hugo --gc --minify`
 - Publish directory: `public`
 - Builds: `Active`
+
+### Hosting
+
+- Code: [GitHub](https://github.com/)
+- Site: [Render.com](https://render.com)
 
 ### Domains
 
 Use your own domain
 
-##### [Cloudflare Pages](https://pages.dev)
-- Primary subdomain: [tinasalada.pages.dev](https://tinasalada.pages.dev)
-- Secondary subdomain: [mksalada.pages.dev](https://mksalada.pages.dev)
-
-##### [Render(.com)](https://render.com)
+##### Subdomains
 - Primary subdomain: [tinadev.onrender.com](https://tinadev.onrender.com)
+
+Free subdomain name by [Render(.com)](https://render.com)
 
 #### Custom domains
 - Domain: [tina.is-a.dev](https://tina.is-a.dev)
@@ -53,9 +52,10 @@ Use your own domain
 
 #### Resources
 
-- [Blowfish Documentation](https://blowfish.page/docs/)
-- [Hugo Documentation](https://gohugo.io/documentation/)
+- [Blowfish Docs](https://blowfish.page/docs)
+- [Hugo Docs](https://gohugo.io/documentation)
 - [is-a.dev Docs](https://docs.is-a.dev)
-- [GitHub Docs](https://github.com)
+- [OpenDomains Docs](https://open-domains.net)
+- [GitHub Docs](https://docs.github.com)
 - [Cloudflare Docs](https://developers.cloudflare.com)
 - [Render Docs](https://render.com/docs)
