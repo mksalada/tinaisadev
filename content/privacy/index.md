@@ -13,7 +13,7 @@ Last updated: 2026 February 13
 
 1. Introduction
 
-Welcome to **Tina.is-a.dev** (“the Site”), my personal website.
+Welcome to **Tina.is-a.dev** (“the Site”), my website.
 
 Your privacy matters to me. This website is intentionally built without ads, tracking scripts, or unnecessary data collection.
 
@@ -31,7 +31,6 @@ However, basic technical information may be automatically logged by my hosting p
 
 - Pages visited
 
-
 This information is used for security, performance, and server maintenance purposes only.
 
 3. Cookies and Tracking
@@ -42,7 +41,7 @@ If this changes in the future (e.g., analytics or embedded content), this policy
 
 4. Third-Party Services
 
-This site is hosted using Render and Cloudflare, and the source code is managed through GitHub. These providers may process limited technical data necessary to deliver the website.
+This site is hosted using [Render](https://render.com) and the source code is managed through [GitHub](https://github.com). These providers may process limited technical data necessary to deliver the website.
 
 I do not sell, rent, or share personal data with third parties.
 
@@ -56,5 +55,4 @@ This Privacy Policy may be updated as needed. Changes will be reflected on this 
 
 7. Contact
 
-If you have questions regarding this Privacy Policy, you may contact me at: tinacodekit@gmail.com
-
+If you have questions regarding this Privacy Policy, you may contact me at: [tinacodekit@gmail.com](mailto:tinacodekit@gmail.com)
