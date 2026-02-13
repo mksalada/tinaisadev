@@ -8,7 +8,7 @@ General information about the site
 
 - Site name: `Tina.is-a.dev`
 - Owner: `Tina Salada` (`mksalada`)
-- Description: `My developer website`
+- Description: `My personal website`
 - Theme: [Blowfish](https://github.com/nunocoracao/blowfish) by [Nuno Coração](https://github.com/nunocoracao)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/nunocoracao/blowfish?style=flat-square)](https://github.com/nunocoracao/blowfish/releases)
 
