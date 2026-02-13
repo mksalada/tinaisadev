@@ -96,8 +96,20 @@
   weight = 30
 
 [[footer]]
+  # pre = "heart"
+  name = "Privacy"
+  pageRef = "privacy"
+  weight = 40
+
+[[footer]]
+  # pre = "heart"
+  name = "Terms"
+  pageRef = "terms"
+  weight = 50
+
+[[footer]]
   pre = "creative-commons"
   title = "CC BY-NC-ND 4.0"
   fill = "currentColor"
   url = "http://creativecommons.org/licenses/by-nc-nd/4.0/"
-  weight = 40
+  weight = 60
