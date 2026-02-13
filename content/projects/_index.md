@@ -8,6 +8,8 @@ showAuthor = false
 showHero = true
 showReadingTime = false
 groupByYear = true
+cardView = true
+cardViewScreenWidth = false
 +++
 
 Information about all my projects
