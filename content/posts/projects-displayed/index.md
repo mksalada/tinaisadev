@@ -13,17 +13,3 @@ Check them out here:
 
 - [Projects](/projects)
 - [Playground](/playground)
-
-<!-- <br>
-
-{{< button href="projects" target="_self" >}}
-    {{< icon "folder-open" >}} &nbsp; Projects
-{{< /button >}}
-
-<br>
-<br>
-
-{{< button href="playground" target="_self" >}}
-    {{< icon "gamepad" >}} &nbsp; Playground
-{{< /button >}}
--->
