@@ -32,7 +32,7 @@ Settings for Continuous Deployment from a Git repository
 ### Hosting
 
 - Code: [GitHub](https://github.com/)
-- Site: [Render.com](https://render.com)
+- Site: [Render](https://render.com)
 
 ### Domains
 
@@ -41,7 +41,7 @@ Use your own domain
 ##### Subdomains
 - Primary subdomain: [tinadev.onrender.com](https://tinadev.onrender.com)
 
-Free subdomain name by [Render(.com)](https://render.com)
+Free subdomain name by [Render](https://render.com)
 
 #### Custom domains
 - Domain: [tina.is-a.dev](https://tina.is-a.dev)
