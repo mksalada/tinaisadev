@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "/" # https://tina.codekit.org # https://tinasalada.pages.dev
+baseURL = "/" # https://tina.codekit.org
 defaultContentLanguage = "en"
 
 # hugo function useful for non-english languages, find out more in 
@@ -27,7 +27,7 @@ buildFuture = false
   category = "categories"
   # author = "authors"
   # series = "series"
-  # project = "projects"
+  # project = "projects" ×
 
 [sitemap]
   changefreq = 'daily'
@@ -52,10 +52,6 @@ buildFuture = false
     # [[related.indices]]
     #     name = "series"
     #     weight = 50
-
-    # [[related.indices]]
-    #     name = "projects"
-    #     weight = 30
 
     # [[related.indices]]
     #     name = "authors"
