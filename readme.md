@@ -1,5 +1,7 @@
 # Tina.is-a.dev (tinaisadev)
 
+[![Submodule Updates](https://github.com/mksalada/tinaisadev/actions/workflows/submodule-update.yml/badge.svg)](https://github.com/mksalada/tinaisadev/actions/workflows/submodule-update.yml)
+
 ## Site details
 
 General information about the site
