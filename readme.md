@@ -1,6 +1,6 @@
 # Tina.is-a.dev (tinaisadev)
 
-[![Submodule Updates](https://github.com/mksalada/tinaisadev/actions/workflows/submodule-update.yml/badge.svg)](https://github.com/mksalada/tinaisadev/actions/workflows/submodule-update.yml)
+[![Update Blowfish Theme](https://github.com/mksalada/tinaisadev/actions/workflows/update-blowfish.yml/badge.svg)](https://github.com/mksalada/tinaisadev/actions/workflows/update-blowfish.yml)
 
 ## Site details
 
