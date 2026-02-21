@@ -1,7 +1,5 @@
 # Tina.is-a.dev (tinaisadev)
 
-[![Update Blowfish Theme](https://github.com/mksalada/tinaisadev/actions/workflows/update-blowfish.yml/badge.svg)](https://github.com/mksalada/tinaisadev/actions/workflows/update-blowfish.yml)
-
 ## Site details
 
 General information about the site
@@ -13,6 +11,7 @@ General information about the site
 - Description: `My personal website`
 - Theme: [Blowfish](https://github.com/nunocoracao/blowfish) by [Nuno Coração](https://github.com/nunocoracao)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/nunocoracao/blowfish?style=flat-square)](https://github.com/nunocoracao/blowfish/releases)
+[![Update Blowfish Theme (PR)](https://github.com/mksalada/tinaisadev/actions/workflows/update-blowfish.yml/badge.svg)](https://github.com/mksalada/tinaisadev/actions/workflows/update-blowfish.yml)
 
 ### Build & deploy
 
