@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Tina.is-a.dev"
+title = "Tina"
 
 [params]
   displayName = "EN"
@@ -11,7 +11,7 @@ title = "Tina.is-a.dev"
   dateFormat = "2 January 2006"
   logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  description = "My website"
+  description = "Personal Website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
