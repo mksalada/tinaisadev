@@ -63,29 +63,41 @@
 #  pageRef = "tags/interesting-topic"
 #  weight = 10
 
-#[[subnavigation]]
-#  name = "My Awesome Category"
-#  pre = "github"
-#  pageRef = "categories/awesome"
-#  weight = 20
+[[main]]
+  name = "Socials"
+  weight = 30
 
 [[main]]
   pre = "github"
-  title = "Github"
+  parent = "Socials"
+  title = "GitHub"
+  name = "GitHub"
   url = "https://github.com/mksalada"
   weight = 31
 
 [[main]]
   pre = "medium"
+  parent = "Socials"
   title = "Medium"
+  name = "Medium"
   url = "https://medium.com/@mksalada"
   weight = 32
 
 [[main]]
   pre = "hashnode"
+  parent = "Socials"
   title = "Hashnode"
+  name = "Hashnode"
   url = "https://hashnode.com/@tinasalada"
   weight = 33
+
+[[main]]
+  pre = "ko-fi"
+  parent = "Socials"
+  title = "Support Me"
+  name = "Ko-fi"
+  url = "https://ko-fi.com/tinablogs"
+  weight = 34
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
@@ -124,7 +136,7 @@
 [[footer]]
   pre = "creative-commons"
   name = "License"
-  # title = "CC BY-NC-ND 4.0"
-  # fill = "currentColor"
+  title = "CC BY-NC-ND 4.0"
+  fill = "currentColor"
   url = "http://creativecommons.org/licenses/by-nc-nd/4.0/"
   weight = 6
