@@ -67,6 +67,7 @@
 [[main]]
   pre = "heart"
   name = "Credits"
+  parent = "About"
   pageRef = "credits"
   weight = 23
 
