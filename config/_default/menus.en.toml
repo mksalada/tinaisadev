@@ -127,8 +127,7 @@
   weight = 34
 
 [[main]]
-  pre = "tag"
-  title = "Tags"
+  pre = "tag" # title = "Tags"
   pageRef = "tags"
   weight = 40
 
