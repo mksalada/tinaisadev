@@ -84,32 +84,32 @@
 #   weight = 10
 
 [[footer]]
-  pre = "tags"
-  name = "Tags"
-  pageRef = "tags"
-  weight = 20
-
-[[footer]]
-  pre = "heart"
-  name = "Credits"
-  pageRef = "credits"
-  weight = 30
-
-[[footer]]
   # pre = "heart"
   name = "Privacy"
   pageRef = "privacy"
-  weight = 40
+  weight = 1
 
 [[footer]]
   # pre = "heart"
   name = "Terms"
   pageRef = "terms"
-  weight = 50
+  weight = 2
+
+[[footer]]
+  pre = "tag"
+  name = "Tags"
+  pageRef = "tags"
+  weight = 3
+
+[[footer]]
+  pre = "heart"
+  name = "Credits"
+  pageRef = "credits"
+  weight = 4
 
 [[footer]]
   pre = "creative-commons"
   title = "CC BY-NC-ND 4.0"
-  fill = "currentColor"
+  # fill = "currentColor"
   url = "http://creativecommons.org/licenses/by-nc-nd/4.0/"
-  weight = 60
+  weight = 5
