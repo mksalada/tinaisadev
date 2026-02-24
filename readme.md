@@ -1,4 +1,4 @@
-# Tina.is-a.dev (tinaisadev)
+# tinaisadev
 
 ## Site details
 
