@@ -6,9 +6,9 @@ General information about the site
 
 ### Site information
 
-- Site name: `Tina.is-a.dev`
-- Owner: `Tina Salada` (`mksalada`)
-- Description: `My personal website`
+- Site name: `Tina`
+- Owner: `mksalada`
+- Description: `Personal Website`
 - Theme: [Blowfish](https://github.com/nunocoracao/blowfish) by [Nuno Coração](https://github.com/nunocoracao)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/nunocoracao/blowfish?style=flat-square)](https://github.com/nunocoracao/blowfish/releases)
 [![Update Blowfish Theme (PR)](https://github.com/mksalada/tinaisadev/actions/workflows/update-blowfish.yml/badge.svg)](https://github.com/mksalada/tinaisadev/actions/workflows/update-blowfish.yml)
@@ -26,7 +26,7 @@ Settings for Continuous Deployment from a Git repository
 - Base directory: `main`
 - Build command: `hugo`
 [![Hugo](https://img.shields.io/badge/Hugo-%5E0.101.0-ff4088?style=flat-square&logo=hugo)](https://gohugo.io/)
-- Build command: `hugo --gc --minify`
+- Build command: ~~`hugo --gc --minify`~~ `bash render.sh`
 - Publish directory: `public`
 - Builds: `Active`
 
