@@ -11,44 +11,52 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  # name = "Posts"
   name = "Writings"
-  pageRef = "/posts"
-  title = "Writings"
   weight = 10
 
-# [[main]]
-#   name = "Archives"
-#   pageRef = "/archives"
-#   weight = 20
+[[main]]
+  name = "Dev Blog"
+  parent = "Writings"
+  pageRef = "dev"
+  title = "Developer Blog"
+  weight = 11
+
+[[main]]
+  name = "Faith Blog"
+  parent = "Writings"
+  pageRef = "faith"
+  title = "Christian Blog"
+  weight = 12
+
+[[main]]
+  name = "Baybayin Blog"
+  parent = "Writings"
+  pageRef = "baybayin"
+  title = "Pre-Philippine Scripts"
+  weight = 13
+
+[[main]]
+  name = "Poems"
+  parent = "Writings"
+  pageRef = "poems"
+  title = "Tugma"
+  weight = 14
 
 [[main]]
   name = "About"
-  pageRef = "/about"
-  title = "About"
-  weight = 30
+  weight = 20
 
 [[main]]
-  name = "Projects"
-  pageRef = "/projects"
-  title = "Projects"
-  weight = 40
+  name = "About Me"
+  parent = "About"
+  pageRef = "about"
+  weight = 21
 
-#[[main]]
-#  name = "Parent"
-#  weight = 20
-
-#[[main]]
-#  name = "example sub-menu 1"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
-
-#[[main]]
-#  name = "example sub-menu 2"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
+[[main]]
+  name = "Updates"
+  parent = "About"
+  pageRef = "updates"
+  weight = 22
 
 #[[subnavigation]]
 #  name = "An interesting topic"
@@ -65,23 +73,23 @@
   pre = "github"
   title = "Github"
   url = "https://github.com/mksalada"
-  weight = 50
+  weight = 31
 
 [[main]]
   pre = "medium"
   title = "Medium"
   url = "https://medium.com/@mksalada"
-  weight = 60
+  weight = 32
+
+[[main]]
+  pre = "hashnode"
+  title = "Hashnode"
+  url = "https://hashnode.com/@tinasalada"
+  weight = 33
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
-
-# [[footer]]
-#   pre = "hashnode"
-#   title = "Hashnode"
-#   url = "https://hashnode.com/@tinasalada"
-#   weight = 10
 
 [[footer]]
   pre = "eye"
@@ -108,9 +116,15 @@
   weight = 4
 
 [[footer]]
+  pre = "rss-square"
+  name = "RSS"
+  pageRef = "sitemap.xml"
+  weight = 5
+
+[[footer]]
   pre = "creative-commons"
   name = "License"
-  title = "CC BY-NC-ND 4.0"
+  # title = "CC BY-NC-ND 4.0"
   # fill = "currentColor"
   url = "http://creativecommons.org/licenses/by-nc-nd/4.0/"
-  weight = 5
+  weight = 6
