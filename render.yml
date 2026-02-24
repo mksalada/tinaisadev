@@ -1,0 +1,21 @@
+services:
+  - type: web
+    name: tina.is-a.dev
+    env: static
+    buildCommand: hugo --gc --minify
+    staticPublishPath: public
+
+    redirects:
+      # Old path → new path
+      # - source: /old-page
+      #   destination: /new-page
+      #   type: 301
+
+      # Social shortcut → external link
+      # - source: /example
+      #   destination: https://example.com/yourpage
+      #   type: 302
+
+      - source: /test-link
+        destination: /about
+        type: 301
