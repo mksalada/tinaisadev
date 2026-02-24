@@ -65,18 +65,24 @@
   weight = 22
 
 [[main]]
+  pre = "heart"
+  name = "Credits"
+  pageRef = "credits"
+  weight = 23
+
+[[main]]
   pre = "lock"
   name = "Privacy"
   parent = "About"
   pageRef = "privacy"
-  weight = 23
+  weight = 24
 
 [[main]]
   pre = "scale-balanced"
   name = "Terms"
   parent = "About"
   pageRef = "terms"
-  weight = 24
+  weight = 25
 
 #[[subnavigation]]
 #  name = "An interesting topic"
@@ -119,31 +125,25 @@
   url = "https://ko-fi.com/tinablogs"
   weight = 34
 
+[[main]]
+  pre = "tag"
+  title = "Tags"
+  pageRef = "tags"
+  weight = 40
+
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
 
 [[footer]]
-  pre = "tag"
-  name = "Tags"
-  pageRef = "tags"
-  weight = 1
-
-[[footer]]
-  pre = "heart"
-  name = "Credits"
-  pageRef = "credits"
-  weight = 2
-
-[[footer]]
   pre = "rss-square"
   name = "RSS"
   url = "/sitemap.xml"
-  weight = 3
+  weight = 1
 
 [[footer]]
   pre = "creative-commons"
   name = "License"
   title = "CC BY-NC-ND 4.0"
   url = "http://creativecommons.org/licenses/by-nc-nd/4.0/"
-  weight = 4
+  weight = 2
