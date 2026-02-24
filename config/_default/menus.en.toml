@@ -67,11 +67,10 @@
   url = "https://github.com/mksalada"
   weight = 50
 
-# [[main]]
-#   pre = "hashnode"
-#   title = "Hashnode"
-#   url = "https://hashnode.com/@tinasalada"
-#   weight = 60
+[[main]]
+  pre = "medium"
+  title = "Medium"
+  url = "https://medium.com/@mksalada"
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
