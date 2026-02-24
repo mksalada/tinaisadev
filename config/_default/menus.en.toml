@@ -64,6 +64,20 @@
   pageRef = "updates"
   weight = 22
 
+[[main]]
+  pre = "lock"
+  name = "Privacy"
+  parent = "About"
+  pageRef = "privacy"
+  weight = 23
+
+[[main]]
+  pre = "scale-balanced"
+  name = "Terms"
+  parent = "About"
+  pageRef = "terms"
+  weight = 24
+
 #[[subnavigation]]
 #  name = "An interesting topic"
 #  pageRef = "tags/interesting-topic"
@@ -110,38 +124,26 @@
 # the copyright notice. Configure as per the main menu above.
 
 [[footer]]
-  pre = "lock"
-  name = "Privacy"
-  pageRef = "privacy"
-  weight = 1
-
-[[footer]]
-  pre = "scale-balanced"
-  name = "Terms"
-  pageRef = "terms"
-  weight = 2
-
-[[footer]]
   pre = "tag"
   name = "Tags"
   pageRef = "tags"
-  weight = 3
+  weight = 1
 
 [[footer]]
   pre = "heart"
   name = "Credits"
   pageRef = "credits"
-  weight = 4
+  weight = 2
 
 [[footer]]
   pre = "rss-square"
   name = "RSS"
-  pageRef = "sitemap.xml"
-  weight = 5
+  url = "/sitemap.xml"
+  weight = 3
 
 [[footer]]
   pre = "creative-commons"
   name = "License"
   title = "CC BY-NC-ND 4.0"
   url = "http://creativecommons.org/licenses/by-nc-nd/4.0/"
-  weight = 6
+  weight = 4
