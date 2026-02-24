@@ -39,7 +39,7 @@
   weight = 13
 
 [[main]]
-  pre = "pen"
+  pre = "feather"
   name = "Poems"
   parent = "Writings"
   pageRef = "poems"
@@ -51,7 +51,7 @@
   weight = 20
 
 [[main]]
-  pre = "user"
+  pre = "circle-user"
   name = "About Me"
   parent = "About"
   pageRef = "about"
@@ -110,7 +110,7 @@
 # the copyright notice. Configure as per the main menu above.
 
 [[footer]]
-  pre = "eye"
+  pre = "lock"
   name = "Privacy"
   pageRef = "privacy"
   weight = 1
