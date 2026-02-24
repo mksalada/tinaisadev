@@ -84,13 +84,13 @@
 #   weight = 10
 
 [[footer]]
-  # pre = "tags"
+  pre = "tags"
   name = "Tags"
   pageRef = "tags"
   weight = 20
 
 [[footer]]
-  # pre = "heart"
+  pre = "heart"
   name = "Credits"
   pageRef = "credits"
   weight = 30
