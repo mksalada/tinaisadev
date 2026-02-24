@@ -84,13 +84,13 @@
 #   weight = 10
 
 [[footer]]
-  # pre = "heart"
+  pre = "eye"
   name = "Privacy"
   pageRef = "privacy"
   weight = 1
 
 [[footer]]
-  # pre = "heart"
+  pre = "scale-balanced"
   name = "Terms"
   pageRef = "terms"
   weight = 2
@@ -109,6 +109,7 @@
 
 [[footer]]
   pre = "creative-commons"
+  name = "License"
   title = "CC BY-NC-ND 4.0"
   # fill = "currentColor"
   url = "http://creativecommons.org/licenses/by-nc-nd/4.0/"
