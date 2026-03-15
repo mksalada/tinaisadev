@@ -16,13 +16,13 @@ title = "Tina"
 
 [params.author]
   name = "Tina Salada"
-  email = "mailto:tinacodekit@gmail.com"
+  email = "mailto:mksalada@proton.me"
   image = "avatars/tina-salada.png"
   # imageQuality = 96
   headline = ""
   bio = "Web developer, blog author, Christian"
   links = [
-    { email = "mailto:tinacodekit@gmail.com" },
+    { email = "mailto:mksalada@proton.me" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
@@ -38,7 +38,7 @@ title = "Tina"
     { github = "https://github.com/mksalada" },
 #     { gitlab = "https://gitlab.com/username" },
 #     { google = "https://www.google.com/" },
-#     { hashnode = "https://username.hashnode.dev" },
+#     { hashnode = "https://mks.hashnode.dev" },
 #     { hashnode = "https://hashnode.com/@tinasalada" },
 #     { instagram = "https://instagram.com/username" },
 #     { itch-io = "https://username.itch.io" },
@@ -68,7 +68,7 @@ title = "Tina"
     { x-twitter = "https://x.com/tinasalada" },
 #     { whatsapp = "https://wa.me/phone-number" },
 #     { youtube = "https://youtube.com/username" },
-#     { ko-fi = "https://ko-fi.com/username" },
+    { ko-fi = "https://ko-fi.com/mksalada" },
 #     { codeberg = "https://codeberg.com/username" },
   ]
 
