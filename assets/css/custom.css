@@ -36,10 +36,10 @@ textarea:focus {
 }
 
 .prose a[href^="http"]:not([href*="yourdomain.com"])::after {
-    content: "↗";
-    /*font-size: 0.75em;*/
-    margin-left: 0.25em;
-    display: inline-block;
+    content:     "↗";
+    font-size:   1em;
+    margin-left: 0.15em;
+    display:     inline-block;
 }
 
 .prose a.no-external::after {
