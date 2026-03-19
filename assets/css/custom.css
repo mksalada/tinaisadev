@@ -24,3 +24,24 @@ textarea:focus {
     border:          1px solid var(--primary-color) !important;
     --tw-ring-color: var(--primary-color) !important;
 }
+
+/* targets only anchor links inside article content */
+.prose a {
+    position:        relative;
+    text-decoration: none;
+}
+
+.prose a:hover {
+    text-decoration: underline;
+}
+
+.prose a[href^="http"]:not([href*="yourdomain.com"])::after {
+    content:     "↗";
+    font-size:   0.75em;
+    margin-left: 0.25em;
+    display:     inline-block;
+}
+
+.prose a.no-external::after {
+  content: none;
+}
