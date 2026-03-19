@@ -35,7 +35,7 @@ textarea:focus {
     text-decoration: underline;
 }
 
-.article-content a[href^="http"]:not([href*="yourdomain.com"])::after {
+.article-content a[href^="http"]:not([href*="tina.is-a.dev"])::after {
     content:     "↗";
     font-size:   1em;
     font-weight: bold;
