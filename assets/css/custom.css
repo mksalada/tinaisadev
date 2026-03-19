@@ -26,16 +26,16 @@ textarea:focus {
 }
 
 /* targets only anchor links inside article content */
-.prose a {
+.article-content a {
     position:        relative;
     text-decoration: none;
 }
 
-.prose a:hover {
+.article-content a:hover {
     text-decoration: underline;
 }
 
-.prose a[href^="http"]:not([href*="yourdomain.com"])::after {
+.article-content a[href^="http"]:not([href*="yourdomain.com"])::after {
     content:     "↗";
     font-size:   1em;
     font-weight: bold;
@@ -43,6 +43,6 @@ textarea:focus {
     display:     inline-block;
 }
 
-.prose a.no-external::after {
+.article-content a.no-external::after {
     content: none;
 }
