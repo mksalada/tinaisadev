@@ -36,14 +36,10 @@ textarea:focus {
 }
 
 .prose a[href^="http"]:not([href*="yourdomain.com"])::after {
-    content:          "";
-    background-image: url('/icons/external-link.svg');
-    background-size:  contain;
-    background-color: var(--primary-color);
-    width:            0.75em;
-    height:           0.75em;
-    margin-left:      0.3em;
-    display:          inline-block;
+    content: "↗";
+    /*font-size: 0.75em;*/
+    margin-left: 0.25em;
+    display: inline-block;
 }
 
 .prose a.no-external::after {
