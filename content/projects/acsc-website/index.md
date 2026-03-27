@@ -25,7 +25,7 @@ A few days after I submitted the project, I shared the project to a local Facebo
 
 #### Links:
 
-{{< button href="https://github.com/mksalada/acsc/" target="_blank" >}}
+- {{< button href="https://github.com/mksalada/acsc/" target="_blank" >}}
     {{< icon "github" >}} &nbsp; GitHub Repository
 {{< /button >}}
 
