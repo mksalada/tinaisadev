@@ -1,5 +1,5 @@
 +++
-title = GitSum
+title = "GitSum"
 date = 2026-03-27T19:03:47+08:00
 draft = false
 description = "GitHub Commit Summary Generator"
