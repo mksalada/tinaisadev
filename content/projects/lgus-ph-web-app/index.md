@@ -15,15 +15,16 @@ Local Government Units in the Philippines Web Application (LGUs PH Web App) is t
 
 If you want to try it, I provide the instructions in the website below.
 
-<br>
-
 {{< github repo="mksalada/LGUs-PH-Web-App" showThumbnail=false >}}
 
-<br>
-<br>
+#### Links
 
-{{< button href="https://mksalada.github.io/LGUs-PH-Web-App/" target="_blank" >}}
-    {{< icon "expand" >}} &nbsp; Preview
+- {{< button href="https://mksalada.github.io/LGUs-PH-Web-App/" target="_blank" >}}
+Github Repository
+{{< /button >}}
+
+- {{< button href="https://mksalada.github.io/LGUs-PH-Web-App/" target="_blank" >}}
+{{< icon "expand" >}} &nbsp; GitHub Pages
 {{< /button >}}
 
 <!-- {< mdimporter url="https://raw.githubusercontent.com/mksalada/LGUs-PH-Web-App/refs/heads/master/README.md" >}} -->
