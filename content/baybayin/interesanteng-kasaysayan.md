@@ -1,14 +1,15 @@
-Interesanteng Kasaysayan
-========================
++++
+title = 'Interesanteng Kasaysayan'
+date = 2026-03-28T03:27:37+08:00
+draft = false
+showDate = false
+tags = ["baybayin", "kasaysayan"]
++++
 
 ![Left-handed mirror writing on a Hanunóo Mangyan bamboo exhibited by the Mangyan Heritage Center at the February-March International Symposium on Endangered Scripts of Island Southeast Asia, Tokyo University of Foreign Studies. Photo by Christopher Ray Miller](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*4eU_TXZMWJL_j9KTiv7V_g.jpeg)
 
-[Reference](https://medium.com/@mksalada/interesanteng-kasaysayan-ec61f59a898d?source=user_profile_page---------9-------------a86fb73b5ac8----------------------)
-
-by [Kristina](https://medium.com/@mksalada?source=post_page---byline--ec61f59a898d---------------------------------------)
-
-
-
+<!-- [Reference](https://medium.com/@mksalada/interesanteng-kasaysayan-ec61f59a898d)
+by [Kristina](https://medium.com/@mksalada) -->
 
 > Ika ng iba, **“Hindi mo lubos na matututunan ang Baybayin kung hindi mo rin matututunan ang kasaysayan nito.”**
 
