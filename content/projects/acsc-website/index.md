@@ -17,15 +17,19 @@ Then, I did all the code from scratch. I even created a logo and some image post
 
 <br>
 
-{{< github repo="mksalada/acsc" showThumbnail=true >}}
+{{< github repo="mksalada/acsc" showThumbnail=false >}}
 
 <br>
 
 A few days after I submitted the project, I shared the project to a local Facebook group focused on tech. I got reviews and suggestions, and things that I should change and improved especially on design. A day later, someone message me. He wanted to hire me to develop a website for their small business. I declined it due to my lack of experience in the industry and that I still have school.
 
-<br>
+#### Links:
 
-{{< button href="https://mksalada.github.io/acsc" target="_blank" >}}
+{{< button href="https://github.com/mksalada/acsc/" target="_blank" >}}
+    {{< icon "github" >}} &nbsp; GitHub Repository
+{{< /button >}}
+
+- {{< button href="https://mksalada.github.io/acsc" target="_blank" >}}
     {{< icon "expand" >}} &nbsp; Preview
 {{< /button >}}
 
