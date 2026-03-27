@@ -3,11 +3,12 @@ title = 'Ang Pakilala Sa Baybayin-Tagalog'
 date = 2019-08-03 # 2026-03-28T03:30:37+08:00
 draft = false
 showDate = false
-tags = ["baybayin", "baybayin-tagalog"]
+tags = ["baybayin", "baybayin-tagalog", "tagalog"]
 +++
 
 <!-- [Reference](https://medium.com/@mksalada/ang-pagkilala-sa-baybayin-tagalog-f016cc114aa6)
-by [Kristina](https://medium.com/@mksalada) -->
+by [Kristina](https://medium.com/@mksalada)
+https://sulatinx.blogspot.com/2019/08/pagkilala-baybayin-tagalog.html -->
 
 ## Bago ko makilala ang Baybayin
 
