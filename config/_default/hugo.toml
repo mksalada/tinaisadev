@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://tina.is-a.dev" # https://tina.codekit.org
+baseURL = "/" # https://tina.is-a.dev # tina.codekit.org
 defaultContentLanguage = "en"
 
 # hugo function useful for non-english languages, find out more in 
