@@ -17,6 +17,7 @@ Then, my mind came up with the idea of making those C projects into a web applic
 
 {{< github repo="mksalada/temperature-converter-web-application" showThumbnail=false >}}
 
+#### Links:
 - {{< button href="https://github com/mksalada/temperature-converter-web-application" target="_blank" >}}
 {{<icon "github">}} &nbsp; Github Repository
 {{< /button >}}
