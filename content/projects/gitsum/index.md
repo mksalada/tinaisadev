@@ -89,9 +89,8 @@ ___
 GitHub Repository
 {{< /button >}}
 
-{{< github repo="mksalada/gitsum" showThumbnail=true >}}
+{{< github repo="mksalada/gitsum" showThumbnail=false >}}
 
-<br>
 - {{< button href="https://mksalada.github.io/gitsum" target="_blank" >}}
 Deployed on GitHub Pages
 {{< /button >}}
