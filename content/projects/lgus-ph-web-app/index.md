@@ -20,7 +20,7 @@ If you want to try it, I provide the instructions in the website below.
 #### Links
 
 - {{< button href="https://mksalada.github.io/LGUs-PH-Web-App/" target="_blank" >}}
-Github Repository
+{{<icon "github">}} &nbsp; Github Repository
 {{< /button >}}
 
 - {{< button href="https://mksalada.github.io/LGUs-PH-Web-App/" target="_blank" >}}
