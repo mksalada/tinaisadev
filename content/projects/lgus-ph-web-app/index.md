@@ -17,7 +17,7 @@ If you want to try it, I provide the instructions in the website below.
 
 <br>
 
-{{< github repo="mksalada/LGUs-PH-Web-App" showThumbnail=true >}}
+{{< github repo="mksalada/LGUs-PH-Web-App" >}}
 
 <br>
 <br>
