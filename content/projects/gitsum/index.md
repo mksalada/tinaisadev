@@ -87,17 +87,17 @@ Yeah… that’s exactly why I made this.
 #### Links:
 
 - {{< button href="https://github.com/mksalada/gitsum/" target="_blank" >}}
-GitHub Repository
+{{<icon "github">}} &nbsp; GitHub Repository
 {{< /button >}}
 
 - {{< button href="https://mksalada.github.io/gitsum" target="_blank" >}}
-Deployed on GitHub Pages
+{{<icon "github">}} &nbsp; Deployed on GitHub Pages
 {{< /button >}}
 
 - {{< button href="https://gitsum.pages.dev" target="_blank" >}}
-Deployed on Cloudflare Pages
+{{<icon "expand">}} &nbsp; Deployed on Cloudflare Pages
 {{< /button >}}
 
 - {{< button href="https://github.com/mksalada/gitsum/releases" target="_blank" >}}
-GitSum Releases
+{{<icon "github">}} &nbsp; GitSum Releases
 {{< /button >}}
