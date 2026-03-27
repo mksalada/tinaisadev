@@ -3,11 +3,12 @@ title = 'Ang Pagkilala Sa Baybayin-Tagbanwa'
 date = 2019-08-03 # 2026-03-28T03:35:37+08:00
 draft = false
 showDate = false
-tags = ["baybayin", "baybayin-tagbanwa"]
+tags = ["baybayin", "baybayin-tagbanwa", "tagbanwa"]
 +++
 
 <!--[Reference](https://medium.com/@mksalada/ang-pagkilala-sa-baybayin-tagbanwa-6cff492dcfc6)
-by [Kristina](https://medium.com/@mksalada) -->
+by [Kristina](https://medium.com/@mksalada)
+https://sulatinx.blogspot.com/2019/08/pagkilala-baybayin-tagbanwa.html -->
 
 Sa aking huling blog post, ikinuwento ko kung papaano ko nakilala ang Baybayin, ang sulat ng mga Tagalog. Ngayon naman, sa ikalawang yugto, ang sulat naman ng mga Tagbanwa o Palaw’an ang ikukwento ko sa inyo.
 
