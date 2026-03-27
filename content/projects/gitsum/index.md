@@ -54,6 +54,8 @@ It said yes.
 
 And that’s where everything started.
 
+![GitSum banner](https://raw.githubusercontent.com/mksalada/gitsum/refs/heads/main/GitSum_banner.png)
+
 I began building **GitSum**, step by step, with the goal of solving this exact problem. Eventually, I got it working and published it on GitHub.
 
 Later on, I discovered another project with the same name—but it’s a CLI tool.
@@ -61,7 +63,7 @@ Later on, I discovered another project with the same name—but it’s a CLI too
 I don’t think it’s a big issue, but I’ll look more into it.
 Same with licensing... I’m still figuring that out since this started as a kind of “vibe-coded” project.
 
----
+![GitSum preview](https://raw.githubusercontent.com/mksalada/gitsum/refs/heads/main/GitSum_preview.png)
 
 Through this project, I learned a lot.
 
