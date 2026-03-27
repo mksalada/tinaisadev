@@ -17,7 +17,7 @@ If you want to try it, I provide the instructions in the website below.
 
 <br>
 
-{{< github repo="mksalada/LGUs-PH-Web-App" >}}
+{{< github repo="mksalada/LGUs-PH-Web-App" showThumbnail=false >}}
 
 <br>
 <br>
@@ -26,3 +26,4 @@ If you want to try it, I provide the instructions in the website below.
     {{< icon "expand" >}} &nbsp; Preview
 {{< /button >}}
 
+<!-- {< mdimporter url="https://raw.githubusercontent.com/mksalada/LGUs-PH-Web-App/refs/heads/master/README.md" >}} -->
