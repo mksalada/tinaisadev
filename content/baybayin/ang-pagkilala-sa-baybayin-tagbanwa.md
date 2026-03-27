@@ -1,24 +1,23 @@
-Ang Pagkilala Sa Baybayin-Tagbanwa
-==================================
++++
+title = 'Ang Pagkilala Sa Baybayin-Tagbanwa'
+date = 2026-03-28T03:35:37+08:00
+draft = false
+showDate = false
+tags = ["baybayin", "baybayin-tagbanwa"]
++++
 
-[Reference](https://medium.com/@mksalada/ang-pagkilala-sa-baybayin-tagbanwa-6cff492dcfc6?source=user_profile_page---------7-------------a86fb73b5ac8----------------------)
-
-by [Kristina](https://medium.com/@mksalada?source=post_page---byline--6cff492dcfc6---------------------------------------)
-
-
-
+<!--[Reference](https://medium.com/@mksalada/ang-pagkilala-sa-baybayin-tagbanwa-6cff492dcfc6)
+by [Kristina](https://medium.com/@mksalada) -->
 
 Sa aking huling blog post, ikinuwento ko kung papaano ko nakilala ang Baybayin, ang sulat ng mga Tagalog. Ngayon naman, sa ikalawang yugto, ang sulat naman ng mga Tagbanwa o Palaw’an ang ikukwento ko sa inyo.
 
-Bago makilala ang sulat Tagbanwa
---------------------------------
+## Bago makilala ang sulat Tagbanwa
 
 Nang matutunan ko ang pagsulat ng Baybayin, nais ko itong tutukan. Kulang pa ang nalalaman ko tungkol dito kaya ito lamang ang writing system na inaalam ko. Nang malaman kong may iba pa bukod dito ay hindi ko pinansin sapagkat ang mga sulat na ito ay iba ang lenggwaheng ginagamit. Noon ang pagkakaakala ko ay ang Baybayin ay para lamang sa wikang Tagalog.
 
 Ako ay laking Maynila ngunit ngayon dito na ako sa Palawan naninirahan kaya’t ninais ko ring malaman ang kanilang sulat, ang Tagbanwa o Palaw’an. Ngunit hindi ako marunong ng kanilang salita kaya kung aaralin ko ang kanilang sulat ay wala ring halaga sapagkat hindi ko rin ito magagamit.
 
-Pagkilala ko sa sulat Tagbanwa
-------------------------------
+## Pagkilala ko sa sulat Tagbanwa
 
 Nang medyo nagsawa ako sa Baybayin ay sinubukan ko ang sulat Tagbanwa.
 
@@ -28,7 +27,6 @@ Ilang linggo ang nagdaan ay pumunta ako sa _The Palawan Museum_. Noong nag-_fiel
 
 Sa iba pang mga nabasa ko, nalaman kong maaari palang gamitin ang Baybayin o di naman kaya ay ang Tagbanwa sa kahit anong lengguahe o dayalekto na nasa Pilipinas. Natuwa ako ng malaman ito kaya ginamit ko na rin ang Tagbanwa sa Tagalog.
 
-Matapos kong makilala ang Tagbanwa
-----------------------------------
+## Matapos kong makilala ang Tagbanwa
 
 Tulad ng Baybayin, matapos kong matutong sumulat ng Tagbanwa, nais ko pang matuto ng tungkol dito at i-_practice_ ito araw-araw. Sa talaarawan ko nga sulat Baybayin o Tagbanwa na ang ginagamit ko. Napaka dali lamang matutong sumulat ngunit ang pagbabasa ang mahirap. Para akong bumalik sa pagkabata kung saan nagsisimula pa lamang akong magbasa, paisa-isa ang pagbasa ko ng mga pantig. Matatawa ka na lamang. Kaya hanggang ngayon ay patuloy ako sa pagsusulat at pagbabasa ng Baybayin at Tagbanwa.
