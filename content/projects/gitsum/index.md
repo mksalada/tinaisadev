@@ -54,8 +54,6 @@ It said yes.
 
 And that’s where everything started.
 
----
-
 I began building **GitSum**, step by step, with the goal of solving this exact problem. Eventually, I got it working and published it on GitHub.
 
 Later on, I discovered another project with the same name—but it’s a CLI tool.
@@ -82,15 +80,13 @@ Because if you’ve ever looked back at your commits and thought: “what is goi
 
 Yeah… that’s exactly why I made this.
 
-___
+{{< github repo="mksalada/gitsum" showThumbnail=false >}}
+
 #### Links:
 
 - {{< button href="https://github.com/mksalada/gitsum/" target="_blank" >}}
 GitHub Repository
 {{< /button >}}
-
-{{< github repo="mksalada/gitsum" showThumbnail=false >}}
-
 - {{< button href="https://mksalada.github.io/gitsum" target="_blank" >}}
 Deployed on GitHub Pages
 {{< /button >}}
@@ -102,7 +98,5 @@ Deployed on Cloudflare Pages
 - {{< button href="https://github.com/mksalada/gitsum/releases" target="_blank" >}}
 GitSum Releases
 {{< /button >}}
-
-___
 
 {{< mdimporter url="https://raw.githubusercontent.com/mksalada/gitsum/refs/heads/main/CHANGELOG.md" >}}
