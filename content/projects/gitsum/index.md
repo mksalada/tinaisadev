@@ -87,6 +87,7 @@ Yeah… that’s exactly why I made this.
 - {{< button href="https://github.com/mksalada/gitsum/" target="_blank" >}}
 GitHub Repository
 {{< /button >}}
+
 - {{< button href="https://mksalada.github.io/gitsum" target="_blank" >}}
 Deployed on GitHub Pages
 {{< /button >}}
@@ -98,5 +99,3 @@ Deployed on Cloudflare Pages
 - {{< button href="https://github.com/mksalada/gitsum/releases" target="_blank" >}}
 GitSum Releases
 {{< /button >}}
-
-{{< mdimporter url="https://raw.githubusercontent.com/mksalada/gitsum/refs/heads/main/CHANGELOG.md" >}}
