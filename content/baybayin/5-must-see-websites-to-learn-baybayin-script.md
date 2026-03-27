@@ -1,6 +1,6 @@
 +++
 title = '5 Must-See Websites To Learn Baybayin Script'
-date = 2026-03-28T03:23:37+08:00
+date = 2020-03-07 # 2026-03-28T03:23:37+08:00
 draft = false
 showDate = false
 tags = ["must-see", "learn", "baybayin"]
