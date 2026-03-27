@@ -1,6 +1,6 @@
 +++
 title = 'Ang Pakilala Sa Baybayin-Tagalog'
-date = 2026-03-28T03:30:37+08:00
+date = 2019-08-03 # 2026-03-28T03:30:37+08:00
 draft = false
 showDate = false
 tags = ["baybayin", "baybayin-tagalog"]
