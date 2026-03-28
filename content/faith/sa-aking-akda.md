@@ -1,6 +1,6 @@
 +++
 title = 'Sa Aking Akda'
-date = 2026-03-29T01:04:37+08:00
+date = 2025-09-18 # 2026-03-29T01:04:37+08:00
 draft = false
 showDate = false # tags = ["site", "updates", "changes"]
 +++
