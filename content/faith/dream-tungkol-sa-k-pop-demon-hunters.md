@@ -1,6 +1,6 @@
 +++
 title = 'Dream Tungkol Sa K-Pop Demon Hunters'
-date = 2026-03-29T01:17:37+08:00
+date = 2025-11-04 # 2026-03-29T01:17:37+08:00
 draft = false
 showDate = true
 tags = ["faith", "facebook"]
