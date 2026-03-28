@@ -2,7 +2,8 @@
 title = 'Dream Tungkol Sa K-Pop Demon Hunters'
 date = 2026-03-29T01:17:37+08:00
 draft = false
-showDate = false # tags = ["site", "updates", "changes"]
+showDate = true
+tags = ["faith", "facebook"]
 +++
 
 ![Image by author (AI-generated image)](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*cJUkiiLduQ0HFrHvOVn2fQ.png)
