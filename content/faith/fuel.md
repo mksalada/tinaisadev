@@ -1,9 +1,8 @@
 +++
 title = 'Fuel'
-date = 2026-02-23T13:07:37+08:00
+date = 2026-03-29T01:28:37+08:00
 draft = false
-showDate = false
-tags = ["site", "updates", "changes"]
+showDate = false # tags = ["site", "updates", "changes"]
 +++
 
 ![What fuels you?](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*f5FQmAaQ0U3ZTvj9bkb5sA.png)
