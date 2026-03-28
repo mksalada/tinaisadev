@@ -1,8 +1,9 @@
 +++
 title = 'Ang Pagkilala Sa Baybayin-Tagbanwa'
-date = 2019-08-03 # 2026-03-28T03:35:37+08:00
+date = 2019-08-03T11:59:04+08:00 # 2026-03-28T03:35:37+08:00
 draft = false
 showDate = false
+categories = ["baybayin"]
 tags = ["baybayin", "baybayin-tagbanwa", "tagbanwa"]
 +++
 
