@@ -18,4 +18,4 @@ Then, I contacted my classmate or partner at that project and sent him the link 
 
 Note: You can download or fork the repository [here](https://github.com/mksalada/house-alley) at my Github account.
 
-{{< github repo="mksalada/house-alley" >}}
+{{< github repo="mksalada/house-alley" showThumbnail=false >}}
