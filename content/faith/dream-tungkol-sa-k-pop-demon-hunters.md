@@ -1,15 +1,14 @@
-Dream Tungkol Sa K-Pop Demon Hunters
-====================================
++++
+title = 'Dream Tungkol Sa K-Pop Demon Hunters'
+date = 2026-03-29T01:17:37+08:00
+draft = false
+showDate = false # tags = ["site", "updates", "changes"]
++++
 
 ![Image by author (AI-generated image)](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*cJUkiiLduQ0HFrHvOVn2fQ.png)
 
-[Reference](https://medium.com/@mksalada/dream-tungkol-sa-k-pop-demon-hunters-a8c3b09c193c)
-
-by [Kristina](https://medium.com/@mksalada)
-
-
-
-
+<!-- [Reference](https://medium.com/@mksalada/dream-tungkol-sa-k-pop-demon-hunters-a8c3b09c193c)
+by [Kristina](https://medium.com/@mksalada) -->
 
 Warning Sa Mga Magulang Para Sa Kanilang Mga Anak
 -------------------------------------------------
