@@ -2,7 +2,8 @@
 title = 'Just Like Jehoshaphat'
 date = 2025-09-30 # 2026-03-29T01:14:37+08:00
 draft = false
-showDate = false # tags = ["site", "updates", "changes"]
+showDate = true
+tags = ["mga-akda", "faith", "facebook"]
 +++
 
 ![Just like Jehoshaphat](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*z1RivlDmC-BzrPNnwKZpbw.png)
