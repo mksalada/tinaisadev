@@ -1,14 +1,15 @@
-Fuel
-====
++++
+title = 'Fuel'
+date = 2026-02-23T13:07:37+08:00
+draft = false
+showDate = false
+tags = ["site", "updates", "changes"]
++++
 
 ![What fuels you?](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*f5FQmAaQ0U3ZTvj9bkb5sA.png)
 
-[Reference](https://medium.com/@mksalada/fuel-ee566bc44513)
-
-by [Kristina](https://medium.com/@mksalada)
-
-
-
+<!-- [Reference](https://medium.com/@mksalada/fuel-ee566bc44513)
+by [Kristina](https://medium.com/@mksalada) -->
 
 _Tanong sa’king isipan_
 -----------------------
@@ -41,5 +42,5 @@ _Panapos_
 
 Naibahagi ko ang bahagya ang kwentong ito sa aming _Youth service_ kung saan tinanong kaming mga lider kung ano ang mai-_impart_ namin sa mga kabataan na magiging lider rin patungkol sa pagiging lingkod (_servanthood_) ng Diyos. Ang paglilingkod o pagiging lingkod ay hindi tungkol sa lingkod o naglilingkod kundi sa pinaglilingkuran kaya hindi dapat tayo sa ating sarili, sa ating ginagawa, o sa mga kasama nating lingkod nakatuon kundi sa Diyos na ating pinaglilingkuran. Ito’y tungkol sa Kaniya, kung gaano Siya kabuti sa’tin. Maglilingkod tayo hindi dahil gusto natin na pakilala, mapalalakpakan, o kung anuman. Maglingkod tayo dahil mahal natin ang Diyos.
 
-Written on 2025 September 25
-Revised & [Posted](https://www.facebook.com/share/p/1F98HCT4Kd/) on 2025 September 29 on Facebook
+<!-- Written on 2025 September 25
+Revised & [Posted](https://www.facebook.com/share/p/1F98HCT4Kd/) on 2025 September 29 on Facebook -->
