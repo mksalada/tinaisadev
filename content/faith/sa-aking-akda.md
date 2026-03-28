@@ -2,7 +2,8 @@
 title = 'Sa Aking Akda'
 date = 2025-09-18 # 2026-03-29T01:04:37+08:00
 draft = false
-showDate = false # tags = ["site", "updates", "changes"]
+showDate = true
+tags = ["mga-akda", "faith", "facebook"]
 +++
 
 ![Artwork/illustration by Hansol](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*KC-N3hNBI2x_QBshShGMeg.jpeg)
