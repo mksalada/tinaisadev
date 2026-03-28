@@ -1,5 +1,6 @@
 +++
-title = 'Muling Pagsaayos' # date = 2026-03-29T01:23:37+08:00
+title = 'Muling Pagsaayos'
+date = 2026-03-29T01:23:37+08:00
 draft = false
 showDate = false # tags = ["site", "updates", "changes"]
 +++
