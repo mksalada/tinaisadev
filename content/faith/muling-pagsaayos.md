@@ -2,7 +2,8 @@
 title = 'Muling Pagsaayos'
 date = 2025-09-14 # 2026-03-29T01:23:37+08:00
 draft = false
-showDate = false # tags = ["site", "updates", "changes"]
+showDate = true
+tags = ["mga-akda", "faith", "facebook"]
 +++
 
 ![Image by author](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*_uqSlIvOpt-xtOlOPZowBQ.jpeg)
