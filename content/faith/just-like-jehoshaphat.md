@@ -1,6 +1,6 @@
 +++
 title = 'Just Like Jehoshaphat'
-date = 2026-03-29T01:14:37+08:00
+date = 2025-09-30 # 2026-03-29T01:14:37+08:00
 draft = false
 showDate = false # tags = ["site", "updates", "changes"]
 +++
