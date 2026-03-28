@@ -64,7 +64,7 @@ Noong mga sandaling 'yon, hindi ko matandaan kung anong _title_ nyon. Iniulit-ul
 
 Kaya noong turn ko na para mag_share_, dahil na rin sa nangyari sa'kin non sa _multicab_, naging mas makatotohanan sa'kin ang pagkukwento about kay King Jehoshaphat _during_ sa _battle_ nya _against the people of Ammon, Moab, and Mount Seir_. Ganoon ka _powerful_ ang _praise and worship_ pagdating sa labanan, and _in our case_ sa _spiritual battle_ natin.
 
-> He said: “Listen, King Jehoshaphat and all who live in Judah and Jerusalem! This is what the Lord says to you: ‘Do not be afraid or discouraged because of this vast army. For the battle is not yours, but God’s. Tomorrow march down against them... You will not have to fight this battle. Take up your positions; stand firm and see the deliverance the Lord will give you, Judah and Jerusalem. Do not be afraid; do not be discouraged. Go out to face them tomorrow, and the Lord will be with you.’ ” (‭2 Chronicles 20:15-17 NIV‬)
+> He said: “Listen, King Jehoshaphat and all who live in Judah and Jerusalem! This is what the Lord says to you: ‘Do not be afraid or discouraged because of this vast army. For the battle is not yours, but God’s. Tomorrow march down against them... You will not have to fight this battle. Take up your positions; stand firm and see the deliverance the Lord will give you, Judah and Jerusalem. Do not be afraid; do not be discouraged. Go out to face them tomorrow, and the Lord will be with you.’ ” ( 2 Chronicles 20:15-17 NIV‬ )
 
 _Panapos_
 ---------
