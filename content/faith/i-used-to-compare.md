@@ -1,6 +1,6 @@
 +++
 title = 'I Used To Compare'
-date = 2026-03-29T01:07:37+08:00
+date = 2025-09-24 # 2026-03-29T01:07:37+08:00
 draft = false
 showDate = false # tags = ["site", "updates", "changes"]
 +++
