@@ -1,9 +1,11 @@
 +++
 title = 'Ang Pakilala Sa Baybayin-Tagalog'
-date = 2019-08-03 # 2026-03-28T03:30:37+08:00
+date = 2019-08-03T11:58:10+08:00 # 2026-03-28T03:30:37+08:00
 draft = false
 showDate = false
+categories = ["baybayin"]
 tags = ["baybayin", "baybayin-tagalog", "tagalog"]
+
 +++
 
 <!-- [Reference](https://medium.com/@mksalada/ang-pagkilala-sa-baybayin-tagalog-f016cc114aa6)
