@@ -1,14 +1,14 @@
-I Used To Compare
-=================
++++
+title = 'I Used To Compare'
+date = 2026-03-29T01:07:37+08:00
+draft = false
+showDate = false # tags = ["site", "updates", "changes"]
++++
 
 ![Artwork/illustration is not mine. Credits to the rightful owner.](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*UqmQDLQ5AhhuJuOIqAJNFQ.png)
 
-[Reference](https://medium.com/@mksalada/i-used-to-compare-4be11d1a0395)
-
-by [Kristina](https://medium.com/@mksalada)
-
-
-
+<!-- [Reference](https://medium.com/@mksalada/i-used-to-compare-4be11d1a0395)
+by [Kristina](https://medium.com/@mksalada) -->
 
 _I used to compare_ ang pananampalataya ko noon kung saan una kong tinanggap si Kristo Hesus at ang pananampalataya ko ngayon _after backsliding_ 𝘢𝘯𝘥 𝘵𝘩𝘦 “_darkest years of my life_.” Kahit pa na alam kong iba ang noon at ang ngayon. Na magkaiba ang struggles at circumstances ko noon kesa sa ngayon, at malinaw rin sa’kin na hindi ko na maibabalik ang nakalipas na.
 
@@ -28,4 +28,4 @@ Dahil dito'y tinignan ko ang aking sarili. “Gaano ba ako sumunod sa Diyos noon
 
 Ayan ang mga bagay na napagtanto ko noong mga panahong 'yon. Ninanais ko pa ring muling maging maalab sa pananampalataya sa Panginoon, ngunit mas ninanais ko na ngayon na sumunod at lumakad kasama N'ya na hindi nakabase sa emosyon at sarili ko.
 
-Written and originally posted on [Facebook](https://www.facebook.com/share/12HYfqvwGki/) on 2025 September 24
+<!-- Written and originally posted on [Facebook](https://www.facebook.com/share/12HYfqvwGki/) on 2025 September 24 -->
