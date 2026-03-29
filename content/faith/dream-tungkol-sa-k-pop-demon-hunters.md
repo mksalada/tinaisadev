@@ -11,10 +11,11 @@ tags = ["faith", "facebook"]
 <!-- [Reference](https://medium.com/@mksalada/dream-tungkol-sa-k-pop-demon-hunters-a8c3b09c193c)
 by [Kristina](https://medium.com/@mksalada) -->
 
+{{< lead >}}
 Warning Sa Mga Magulang Para Sa Kanilang Mga Anak
--------------------------------------------------
+{{< /lead >}}
 
-By Joemarie Sapansa Montales
+By [Joemarie Sapansa Montales](https://www.facebook.com/joemariesapansa.montales/)
 October 04, 2025
 
 🕊
