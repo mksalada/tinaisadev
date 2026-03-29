@@ -11,10 +11,11 @@ tags = ["faith", "facebook"]
 <!-- [Reference](https://medium.com/@mksalada/dream-about-k-pop-demon-hunters-3bc6410fc14e)
 by [Kristina](https://medium.com/@mksalada) -->
 
+{{< lead >}}
 A warning to parents for their children
----------------------------------------
+{{< /lead >}}
 
-By Joemarie Sapansa Montales
+By [Joemarie Sapansa Montales](https://www.facebook.com/joemariesapansa.montales/)
 October 4, 2025
 English Translation:
 
