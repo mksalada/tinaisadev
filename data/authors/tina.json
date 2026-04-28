@@ -1,0 +1,13 @@
+{
+  "name": "Tina Salada",
+  "image": "avatars/tina-salada.png",
+  "bio": "Web developer, Creative Media, Christian, Baybayin Advocate",
+  "social": [
+    { "linkedin": "https://linkedin.com/in/saladamk" },
+    { "twitter": "https://twitter.com/tinasalada" },
+    { "instagram": "https://instagram.com/tintinsalada" },
+    { "medium": "https://medium.com/@mksalada" },
+    { "github": "https://github.com/mksalada" },
+    { "facebook": "https://facebook.com/tinaisadev" }
+  ]
+}
