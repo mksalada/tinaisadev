@@ -14,6 +14,8 @@ So I wanted to share how (and why) I ended up creating a **Blowfish Starter Temp
 
 First of all, I *love* the [Blowfish Hugo theme](https://github.com/nunocoracao/blowfish).
 
+![Blowfish Hugo Theme by Nuno Coracao](https://github.com/nunocoracao/blowfish/blob/main/logo.png?raw=true)
+
 I’ve used it for my personal website, profile pages, and blog projects. The customization is just 👌 and it’s honestly one of the cleanest [Hugo themes](https://gohugo.io/themes) I’ve worked with.
 
 ### The Problem
@@ -25,6 +27,8 @@ I’ve tried a few different ways of using it:
 - Manually downloading and uploading theme files
 
 (I haven’t tried Hugo Modules or the Blowfish CLI tools yet.)
+
+![Screenshot of Blowfish](https://github.com/nunocoracao/blowfish/blob/main/images/screenshot.png?raw=true)
 
 Every time a new version drops, updating becomes a bit of a chore.
 
