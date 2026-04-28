@@ -23,7 +23,11 @@ If you know me, you’ll know I have a strong preference for free and open-sourc
 
 Just this month, I came across two more presentation tools: [G-Presenter](https://gpresenter.com) and [WeConnect](https://weconnectph.com). Honestly, I was both surprised and impressed to see locally developed software for church media. That’s something worth celebrating.
 
+![G-Presenter](G-Presenter_Screenshot.jpg)
+
 That said, I often hear the phrase “support local.” I understand the sentiment, and I do value it. However, the reality is that our church doesn’t have the budget for monthly subscriptions. Both platforms offer a 14-day trial, but continued use requires payment.
+
+![WeConnect PH](WeConnectPH_Screenshot.jpg)
 
 So for now, my stance is this: support tools that also support the church’s reality.
 
