@@ -1,6 +1,6 @@
 ---
 title: Discovery of BearBlog ʕ•ᴥ•ʔ
-alias:
+aliases:
 - discovery-bearblog
 date: 2026-04-21T10:17:00+08:00
 draft: false
