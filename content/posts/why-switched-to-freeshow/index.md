@@ -7,9 +7,15 @@ tags: ["freeshowapp", "easyworship7", "g-presenter", "weconnectph", "foss", "ope
 
 For years, our church relied on the free version of [EasyWorship](https://easyworship.com) as our presentation software. When I became the lyrics operator, I continued using it for a couple more years. But around November last year, I reached a point where I simply couldn’t tolerate how slow it had become.
 
+![EasyWorship - Church Presentation Software](https://s3.amazonaws.com/media.cloversites.com/65/65b04292-fcc2-46ca-9e4d-59b74b557701/site-images/46f44331-50bf-4b18-9217-dfd923d606ed.png)
+
 At first, people thought I was the one being slow—but it wasn’t me. The application itself was struggling. We were using an old laptop, and *EasyWorship 7* would consume nearly all of its CPU, making it difficult to keep up during services.
 
+![EasyWorship 7](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/24016735640/original/usogmpnyuGaQ7gi5L73mGNItkMxZHi9Q5A.png?1512662288)
+
 So I started searching for alternatives. I tried several presentation software options online until I discovered [FreeShow](https://freeshow.app).
+
+![FreeShow](https://freeshow.app/freeshow.jpg)
 
 What caught my attention was their mission: to provide small churches with a free tool that offers features comparable to paid software. Even better, it’s open-source.
 
@@ -22,3 +28,5 @@ That said, I often hear the phrase “support local.” I understand the sentime
 So for now, my stance is this: support tools that also support the church’s reality.
 
 That’s why I’m sticking with *FreeShow*.
+
+![FreeShow App](https://www.renewingworshipnc.org/wp-content/uploads/2025/06/FreeShow.png)
