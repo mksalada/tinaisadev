@@ -2,7 +2,7 @@
 set -e  # exit immediately if a command fails
 
 # Default Hugo version if not set
-HUGO_VERSION=${HUGO_VERSION:-0.120.4}
+HUGO_VERSION=${HUGO_VERSION:-0.155.3}
 
 echo "Using Hugo Extended version: $HUGO_VERSION"
 
