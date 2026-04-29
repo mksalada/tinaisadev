@@ -39,7 +39,7 @@ So with the help from [ChatGPT](https://chatgpt.com) and [GitHub Actions](https:
 Then after completing that, I came across this discussion:
 👉 [Discussion #2843](https://github.com/nunocoracao/blowfish/discussions/2843#discussion-9664986)
 
-<!-- ![Discussion #2843 screenshot]() -->
+![Discussion #2843 screenshot](discussion-2843-screenshot.jpg)
 
 My first thought was:
 > “Isn’t there already a template for this?”
