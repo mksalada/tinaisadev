@@ -25,6 +25,8 @@ I gave it a try using GitHub Actions and deployed it on [Cloudflare Pages](https
 
 That’s when I discovered [BearBlog](https://bearblog.dev) itself.
 
+![Screenshot of BearBlog.dev](featured-bearblog.jpg)
+
 I was surprised—it already provides hosting and a subdomain. No complicated setup needed.
 
 After about an hour of trial and error, I finally got everything working.
