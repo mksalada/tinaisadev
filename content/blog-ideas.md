@@ -7,7 +7,7 @@ showDateUpdated: true
 ---
 
 ### 2026/04/28
-- [x] Church Presentation Software ([EasyWorship](https://easyworship.com), [FreeShow](https://freeshow.app), [G-Presenter](https://gpresenter.com), [WeConnectPH](https://weconnectph.com) (Done: 2026/04/29)
+- [x] Church Presentation Software ([EasyWorship](https://easyworship.com), [FreeShow](https://freeshow.app), [G-Presenter](https://gpresenter.com), [WeConnectPH](https://weconnectph.com) → [Read this](https://tina.is-a.dev/posts/why-switched-to-freeshow/) (Done: 2026/04/29)
 - [ ] Family Camp 2026
 - [x] Discovery of [BearBlog](https://bearblog.dev) → [Read here](/posts/discovery-bearblog) (Done: 2026-04-21 | Transfered: 2026-04-28)
 - [ ] ~~Backstory of [Ate Bear Blog](https://ate.bearblog.dev)~~
