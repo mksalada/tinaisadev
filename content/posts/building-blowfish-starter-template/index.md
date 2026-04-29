@@ -1,5 +1,5 @@
 ---
-title: "Building a Blowfish Starter Template (from my phone 🤯)"
+title: "Building a Blowfish Starter Template"
 date: 2026-04-28T14:53:01+08:00
 description: "How I ended up creating a deploy-ready Blowfish starter template for multiple platforms—without a laptop."
 aliases: ["building-blowfish-starter-template"]
