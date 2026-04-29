@@ -15,3 +15,11 @@ showDateUpdated: true
 - [ ] Hugo Front Matter Variables (from TOML to YAML)
 - [x] Story: [Blowfish Starter Template](https://github.com/mksalada/blowfish-starter-template) → [Read here](/posts/building-blowfish-starter-template) (Done: 2026-04-28)
 - [x] Tutorial: [Blowfish Starter Template](https://guthub.com/mksalada/blowfish-starter-template) → [Read here](/posts/blowfish-starter-template-quick-start) (Done: 2026/04/29)
+
+### 2026/04/29
+- [ ] Discovery of Decap CMS
+- [ ] Making of Blowfish (Hugo) + Decap CMS (Netlify) Website
+- [ ] Discovery of [Status Cafe](https://status.cafe)
+- [ ] Discovery of [Now Page](https://nownownow.com)
+- [ ] Discovery of [Guestbooks](https://guestbooks.meadow.cafe)
+- [ ] Discovery of [Not By AI](https://notbyai.fyi)
