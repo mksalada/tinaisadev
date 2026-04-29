@@ -17,7 +17,7 @@ showDateUpdated: true
 - [x] Tutorial: [Blowfish Starter Template](https://guthub.com/mksalada/blowfish-starter-template) → [Read here](/posts/blowfish-starter-template-quick-start) (Done: 2026/04/29)
 
 ### 2026/04/29
-- [ ] Discovery of Decap CMS
+- [ ] Discovery of (Decap CMS](https://decapcms.org)
 - [ ] Making of Blowfish (Hugo) + Decap CMS (Netlify) Website
 - [ ] Discovery of [Status Cafe](https://status.cafe)
 - [ ] Discovery of [Now Page](https://nownownow.com)
