@@ -1,6 +1,6 @@
 ---
 title: "Blowfish Starter Template – Quick Start Guide"
-date: 2026-04-28T015:00:00+08:00
+date: 2026-04-28T15:00:00+08:00
 showDate: true
 description: "Deploy a Blowfish Hugo site instantly with this starter template—no setup required."
 tags: ["hugo", "blowfish", "guide", "deployment", "blowfish-starter-template"]
